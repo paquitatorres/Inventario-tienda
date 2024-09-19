@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\N2 de Maxiprog\TPFinalNivel2_Torres\ConexionDB\bin\Debug\ConexionDB.dll
+C:\Users\PC\Desktop\N2 de Maxiprog\TPFinalNivel2_Torres\ConexionDB\bin\Debug\ConexionDB.pdb
+C:\Users\PC\Desktop\N2 de Maxiprog\TPFinalNivel2_Torres\ConexionDB\bin\Debug\Dominio.dll
+C:\Users\PC\Desktop\N2 de Maxiprog\TPFinalNivel2_Torres\ConexionDB\bin\Debug\Dominio.pdb
+C:\Users\PC\Desktop\N2 de Maxiprog\TPFinalNivel2_Torres\ConexionDB\obj\Debug\ConexionDB.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\N2 de Maxiprog\TPFinalNivel2_Torres\ConexionDB\obj\Debug\ConexionDB.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\N2 de Maxiprog\TPFinalNivel2_Torres\ConexionDB\obj\Debug\ConexionDB.csproj.CopyComplete
+C:\Users\PC\Desktop\N2 de Maxiprog\TPFinalNivel2_Torres\ConexionDB\obj\Debug\ConexionDB.dll
+C:\Users\PC\Desktop\N2 de Maxiprog\TPFinalNivel2_Torres\ConexionDB\obj\Debug\ConexionDB.pdb
